@@ -176,6 +176,37 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
+.bannerFUN {
+	background-color: #2D9AB7;
+	background-image: url(../images/alphalogo.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-size: contain;
+	background-repeat: no-repeat;
+  background-position: center;
+}
+.parallaxFUN {
+	color: #FFFFFF;
+	text-align: right;
+	padding-right: 100px;
+	padding-top: 110px;
+	letter-spacing: 2px;
+	margin-top: 0px;
+}
+.parallax_descriptionFUN {
+	color: #FFFFFF;
+	text-align: right;
+	padding-right: 100px;
+	width: 30%;
+	float: right;
+	font-weight: lighter;
+	line-height: 23px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
 /* More info */
 footer {
 	background-color: #FFFFFF;
@@ -472,6 +503,7 @@ nav ul li {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
+	/* */
 }
 .banner {
 	margin-top: 0px;
